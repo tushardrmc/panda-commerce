@@ -1,5 +1,9 @@
+.container{
+    margin-bottom: 35px;
+}
 .bg-slide{
     background-color: #feeae9;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
