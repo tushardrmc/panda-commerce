@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .bg-slide{
     background-color: #feeae9;
@@ -41,6 +41,7 @@
 }
 .menu{
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .product-top{
     margin: 20px 0px;
@@ -54,4 +55,27 @@
     box-shadow: 5px 5px 10px lightgray; 
     text-align: center;
     padding: 20px;
+}
+.subscribe{
+    background-color: #feeae9;
+    border-radius: 10px;
+    height: 350px;
+    text-align: center;
+    margin-top: 100px;
+}
+.sub-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 4px 20px;
+    cursor: pointer;
+}
+input{
+    border: 3px solid white;
+}
+.midle-bg{
+    background-color: #F4F4F4;
+    padding-top: 100px;
+    padding-bottom: 60px;
 }
