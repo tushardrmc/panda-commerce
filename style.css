@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 35px;
+    margin-bottom: 50px;
 }
 .bg-slide{
     background-color: #feeae9;
@@ -33,6 +33,25 @@
 .cat3{
     background-image: linear-gradient(to bottom, #4289FF 0%, #3F07F8 100%);
 }
+.categories{
+    margin-top: 20px;
+}
 .categories img{
     width: 100px;
+}
+.menu{
+    margin-top: 30px;
+}
+.product-top{
+    margin: 20px 0px;
+}
+.product-top h5{
+    color:#FF9C35;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray; 
+    text-align: center;
+    padding: 20px;
 }
